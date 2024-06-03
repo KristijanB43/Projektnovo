@@ -1,0 +1,8 @@
+1,Lando,Norris,UK,McLaren,21,35
+2,kiki,lol,neka,Kick Sauber,30,99
+3,Lewis,Hamilton,UK,Mercedes,39,105
+4,Fernando,Alonso,Spanjolska,Aston Martin,41,33
+5,Max,Verstappen,Nizozemska,Red Bull,21,300
+6,Ime,Prezime,Hrvatska,Red Bull,23,44
+7,lol,lol,lol,Williams,22,33
+8,KRISTIJAN,BAHNJIK,HRVATSKA,McLaren,19,33
